@@ -1,5 +1,7 @@
 homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
 versions:
+  - sha: a162a2569ae04f87ce5b7eceaa82910ea1ef4fdd
+    changeNotes: Set new name.
   - sha: 3bea4822c1d11cfa644e7ae46b6c8f5d278cc147
     changeNotes: Initial template.
